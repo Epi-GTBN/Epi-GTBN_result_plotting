@@ -25,5 +25,5 @@ Change `filename = 0025HERaccuracy_Example` to your own dataset's name.
 
 ## Plot's Result Demo
 
-![0.025HER_Accuracy.png](https://github.com/sgyzetrov/Epi-GTBN_result_plotting/blob/master/0025HERaccuracyAccuracy.png)
+![0.025HER_Accuracy.png](https://github.com/Epi-GTBN/Epi-GTBN_result_plotting/blob/master/0025HERaccuracyAccuracy.png)
 
