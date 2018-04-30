@@ -19,7 +19,7 @@ reshape2
 
 Input should be like `0025HERaccuracy_Example.csv` in given files
 
-By default it will search for 0025HERaccuracy_Example.csv in R default diretory.
+By default it will search for `0025HERaccuracy_Example.csv` in R default diretory.
 
 Change `filename = 0025HERaccuracy_Example` to your own dataset's name.
 
