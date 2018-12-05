@@ -1,4 +1,4 @@
-# Epi-GTBN plotting code
+# Plotting code for Epi-GTBN's experiment results
 
 [![R-3.4.1](https://img.shields.io/badge/R-3.4.1-green.svg)](https://cran.r-project.org)
 
