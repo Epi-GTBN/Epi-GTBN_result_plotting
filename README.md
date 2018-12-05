@@ -36,7 +36,7 @@ Comments in `plot.R` should act as a good helper. Also, some quick tweaks are pr
 - In `p = ggplot(dataset_long,aes(x = Method, y = Accuracy))+facet_grid(.~MAF)+`, change `x = Method, y = Accuracy, .~MAF` to your previous configurations (`id.vars`, `value.name` and `variable.name`).
 
 
-## Plot's Result Demo
+## Result Demo
 
 ![0025HERaccuracy_ExampleAccuracy.png](https://github.com/Epi-GTBN/Epi-GTBN_result_plotting/blob/master/0025HERaccuracy_ExampleAccuracy.png)
 
